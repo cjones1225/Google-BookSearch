@@ -1,0 +1,29 @@
+.book {
+  position: relative;
+  min-height: 300px;
+  width: 100%;
+  border-bottom: 1px solid gray;
+}
+
+.book-title {
+  width: 50%;
+  margin: 20px auto;
+}
+
+img {
+  position: absolute;
+  left: 10px;
+  top: 30px;
+}
+
+p {
+  width: 50%;
+  margin: 10px auto;
+  font-size: 15px;
+}
+
+h2 {
+  margin: 5px auto;
+  font-size: 18px;
+  font-weight: normal;
+}
